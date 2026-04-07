@@ -3,7 +3,7 @@
 Introduction:
 Three separate Python code files for constructing credit card fraud prediction models for machine learning project.
 
-The project repository consists of manually constructed logistic regression model (all functions are defined and executed manually), simple, one-layer neural network with sigmoid activation cells for executing the same task - to model fraud prediction on test set, and Scikit library Logistic Regression function.
+The project repository consists of manually constructed logistic regression model (all functions are defined and executed manually), simple, one-layer neural network with sigmoid activation cells for executing the same task - to simulate a model for fraud prediction on test set, and Scikit library Logistic Regression function.
 
 Main reason of constructing repository of three separate python files, which purpose is the same, is to understand logistic regression and machine learning algorithm building more throughoutly by understanding the construction of algorithms and what is essentially happening inside the built-in library functions.
 
