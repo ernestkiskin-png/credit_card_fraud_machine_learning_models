@@ -10,6 +10,7 @@ Main reason of constructing repository of three separate python files, which pur
 That being said, the following Python files and datasets will be inside this repository:
 
 - credit_card_fraud_logistic_regression_manual (Manually constructed logistic regression algorithm)
+- credit_card_fraud_logistic_regression_scikit_lib (Logistic regression algorithm constructed by using SciKit and NumPy libraries) 
 - logistic_regression_neural_network (One_layer neural network with ADAM optimizer and sigmoid activation function)
 
 
